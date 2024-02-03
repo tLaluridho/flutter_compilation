@@ -1,7 +1,8 @@
 {
     "modules": [
         "counter",
-        "single_selection"
+        "single_selection",
+        "multiple_selection"
     ],
     "module_directory_name": "module",
     "experimental_mode": false,
